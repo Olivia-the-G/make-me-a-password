@@ -20,7 +20,7 @@ function generatePassword() {
   if (isNaN(passwordLength)) {
     window.alert("Please enter an appropriate number.");
     return null;
-  }
+  };
   if (passwordLength < 8 || passwordLength > 128) {
     window.alert("Sorry, that is not within the given range.");
     return null;
@@ -52,10 +52,12 @@ function generatePassword() {
   };
 
   // Randomize password using the parameters taken from the user's responses
-  randomCharacters = Math.floor(Math.random() * passwordCharacters.length);
-  passwordResult = passwordCharacters[randomCharacters];
-    
-  return passwordResult;
+    for(var i = 0; i < passwordLength; i++) {
+      randomCharacters = passwordCharacters[Math.floor(Math.random() * passwordCharacters.length)];
+   console.log(randomCharacters)
+      return randomCharacters;
+    };
+  
 };
 
 
