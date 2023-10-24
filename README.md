@@ -1,15 +1,25 @@
-# make-me-a-password
-password generator
+# Make-me-a-password
 
-Items to do:
-- after all prompts are answered, a password will be generated that matches the criteria and given to the user
-- pasword is either displayed as an alert or written to the page
+## Description
 
+- I made this website for users to be able to generate a secure password using their selected criteria.
+- This was a more challenging project for me as there is a lot of information to keep track of, but I learned a lot about storing data in variables and how to manipulate strings and arrays. 
 
-finished:
-- make one of the prompts password length, can be any number between 8 and 128
-- next prompt is character types. The user can toggle options of lowercase, uppercase, numeric, special characters
-- create prompts for passord criteria 
-- make those prompts appear after you click the generate passoword button 
-- ask the user to select their wanted password criteria 
-- make sure one of the confirm actions are true 
+## Usage
+
+Provide instructions and examples for use. Include screenshots as needed.
+
+To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+
+    ```md
+    ![alt text](assets/images/screenshot.png)
+    ```
+
+## License
+
+The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+
+---
+
+🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
+
