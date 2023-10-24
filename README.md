@@ -4,13 +4,11 @@
 
 - I made this website for users to be able to generate a secure password using their selected criteria.
 - This was a more challenging project for me as there is a lot of information to keep track of, but I learned a lot about storing data in variables and how to manipulate strings and arrays.
-- ![olivia-the-g github io_make-me-a-password_](https://github.com/Olivia-the-G/make-me-a-password/assets/130778807/6914b48d-61f0-482c-af06-7974fa968c38)
-
 
 ## Usage
 
 https://olivia-the-g.github.io/make-me-a-password/ 
-
+![olivia-the-g github io_make-me-a-password_](https://github.com/Olivia-the-G/make-me-a-password/assets/130778807/6914b48d-61f0-482c-af06-7974fa968c38)
 
 ## License
 
