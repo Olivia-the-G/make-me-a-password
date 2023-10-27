@@ -8,7 +8,7 @@
 ## Usage
 
 https://olivia-the-g.github.io/make-me-a-password/ 
-![olivia-the-g github io_make-me-a-password_](https://github.com/Olivia-the-G/make-me-a-password/assets/130778807/6914b48d-61f0-482c-af06-7974fa968c38)
+[![olivia-the-g github io_make-me-a-password_](https://github.com/Olivia-the-G/make-me-a-password/assets/130778807/6914b48d-61f0-482c-af06-7974fa968c38)](https://olivia-the-g.github.io/make-me-a-password/)
 
 ## License
 
